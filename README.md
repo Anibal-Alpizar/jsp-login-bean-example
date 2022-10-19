@@ -1,3 +1,3 @@
--Netbeans IDE 12.6
--JDK 1.8.0_161
--Glassfish 5.0
+-Netbeans IDE 12.6 <br> </br>
+-JDK 1.8.0_161 <br> </br>
+-Glassfish 5.0 <br> </br>
