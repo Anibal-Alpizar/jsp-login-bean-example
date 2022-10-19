@@ -1,0 +1,6 @@
+com\mycompany\jsp\login\example\resources\JavaEE8Resource.class
+model\ProvincesModel.class
+com\mycompany\jsp\login\example\JAXRSConfiguration.class
+controller\BeanIngreso.class
+controller\BeanUser.class
+model\MaritalStatusModel.class
